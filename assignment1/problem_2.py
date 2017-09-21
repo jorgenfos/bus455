@@ -18,3 +18,5 @@ sort_and_check(a, 5)
 sort_and_check(a, 10)
 sort_and_check(a, -1)
 sort_and_check(a, 2.5)
+
+#Hei dette er joooorg1
